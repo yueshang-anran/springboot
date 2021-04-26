@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="005fae21-2ee9-4831-90fb-9411ea896dde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rO5GgqbT49RkiGE6mgJ7dWBv93" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Mybatis-Study" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot04DataApplication">
+    <configuration name="Springboot04DataApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-04-data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kuang" />
+      <option name="MAIN_CLASS_NAME" value="com.kuang.Springboot04DataApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04DataApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-04-data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kuang" />
+      <option name="MAIN_CLASS_NAME" value="com.kuang.Springboot04DataApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04DataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-04-data" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.Springboot04DataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Springboot04DataApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot04DataApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="005fae21-2ee9-4831-90fb-9411ea896dde" name="Default Changelist" comment="" />
+      <created>1618834201300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618834201300</updated>
+      <workItem from="1618834206375" duration="3372000" />
+      <workItem from="1618838087590" duration="6157000" />
+      <workItem from="1618881211110" duration="629000" />
+      <workItem from="1618882121593" duration="7000" />
+      <workItem from="1618882847468" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="234" key="#SQL_Resolution_Scopes" timestamp="1618839807988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="234" key="#SQL_Resolution_Scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1618839807988" />
+    <state x="156" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618838008054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="156" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618838008054" />
+    <state x="895" y="311" key="FileChooserDialogImpl" timestamp="1618835949042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="895" y="311" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618835949042" />
+    <state width="1387" height="535" key="GridCell.Tab.0.bottom" timestamp="1618844421389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="535" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618844421389" />
+    <state width="1387" height="535" key="GridCell.Tab.0.center" timestamp="1618844421389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="535" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618844421389" />
+    <state width="1387" height="535" key="GridCell.Tab.0.left" timestamp="1618844421389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="535" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618844421389" />
+    <state width="1387" height="535" key="GridCell.Tab.0.right" timestamp="1618844421389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="535" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618844421389" />
+    <state width="1387" height="535" key="GridCell.Tab.1.bottom" timestamp="1618844421390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="535" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618844421390" />
+    <state width="1387" height="535" key="GridCell.Tab.1.center" timestamp="1618844421389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="535" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618844421389" />
+    <state width="1387" height="535" key="GridCell.Tab.1.left" timestamp="1618844421389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="535" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618844421389" />
+    <state width="1387" height="535" key="GridCell.Tab.1.right" timestamp="1618844421390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="535" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618844421390" />
+    <state width="200" height="461" key="SqlResolveConfigurable" timestamp="1618839590125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="200" height="461" key="SqlResolveConfigurable/0.0.1920.1040@0.0.1920.1040" timestamp="1618839590125" />
+    <state x="881" y="262" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1618839484492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="881" y="262" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618839484492" />
+    <state x="557" y="255" key="new project wizard" timestamp="1618881504963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="255" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1618881504963" />
+    <state x="729" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1618840362555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618840362555" />
+  </component>
+</project>

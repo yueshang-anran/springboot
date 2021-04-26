@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="531e5b4d-edc7-4e89-816f-f3540315482a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rIkbgiVW788aYu9HKfEvDFXU9B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/public" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAworkspace@@\springboot\springboot-04-web\src\main\resources\public" />
+      <recent name="D:\IDEAworkspace@@\springboot\springboot-04-web\src\main\resources\templates" />
+      <recent name="D:\IDEAworkspace@@\springboot\springboot-04-web\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Springboot04WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-04-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.Springboot04WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="531e5b4d-edc7-4e89-816f-f3540315482a" name="Default Changelist" comment="" />
+      <created>1618671064176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618671064176</updated>
+      <workItem from="1618671067575" duration="1820000" />
+      <workItem from="1618707575435" duration="4548000" />
+      <workItem from="1618712203411" duration="4031000" />
+      <workItem from="1618753263309" duration="1858000" />
+      <workItem from="1618797978996" duration="1753000" />
+      <workItem from="1618830756234" duration="2177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1618711159197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1618711159197" />
+    <state x="892" y="313" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618710067458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="892" y="313" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618710067458" />
+    <state width="1387" height="273" key="GridCell.Tab.0.bottom" timestamp="1618834209822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618834209822" />
+    <state width="1387" height="273" key="GridCell.Tab.0.center" timestamp="1618834209822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618834209822" />
+    <state width="1387" height="273" key="GridCell.Tab.0.left" timestamp="1618834209821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618834209821" />
+    <state width="1387" height="273" key="GridCell.Tab.0.right" timestamp="1618834209822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618834209822" />
+    <state width="1387" height="273" key="GridCell.Tab.1.bottom" timestamp="1618834209822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="273" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618834209822" />
+    <state width="1387" height="273" key="GridCell.Tab.1.center" timestamp="1618834209822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="273" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618834209822" />
+    <state width="1387" height="273" key="GridCell.Tab.1.left" timestamp="1618834209822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="273" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618834209822" />
+    <state width="1387" height="273" key="GridCell.Tab.1.right" timestamp="1618834209822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1387" height="273" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618834209822" />
+    <state x="701" y="170" key="SettingsEditor" timestamp="1618709325828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="170" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618709325828" />
+    <state x="434" y="336" key="new project wizard" timestamp="1618834200485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="434" y="336" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1618834200485" />
+    <state x="792" y="277" width="672" height="678" key="search.everywhere.popup" timestamp="1618712147204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="792" y="277" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618712147204" />
+  </component>
+</project>

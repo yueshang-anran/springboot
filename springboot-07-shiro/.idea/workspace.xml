@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="238b222c-47dc-4979-aa36-c82b6151ab52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rTNznAWZGaLk53waetL6jcdiYX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shiro-springboot/src/main/resources/templates" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAworkspace@@\springboot\springboot-07-shiro\shiro-springboot\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAworkspace@@\springboot\springboot-07-shiro\shiro-springboot\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShiroSpringbootApplication">
+    <configuration name="Quickstart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quickstart" />
+      <module name="hello-shiro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiroSpringbootApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shiro-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kuang" />
+      <option name="MAIN_CLASS_NAME" value="com.kuang.ShiroSpringbootApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiroSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shiro-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.ShiroSpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShiroSpringbootApplicationTests.contextLoads" />
+        <item itemvalue="Application.Quickstart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="238b222c-47dc-4979-aa36-c82b6151ab52" name="Default Changelist" comment="" />
+      <created>1618996384621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618996384621</updated>
+      <workItem from="1618996386308" duration="454000" />
+      <workItem from="1618996868531" duration="3331000" />
+      <workItem from="1619004652557" duration="5180000" />
+      <workItem from="1619012697143" duration="2473000" />
+      <workItem from="1619051622037" duration="3865000" />
+      <workItem from="1619073461711" duration="1718000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="825" y="330" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619004735686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="825" y="330" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619004735686" />
+    <state x="903" y="375" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619004164709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="903" y="375" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1619004164709" />
+    <state x="956" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1619010905831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="956" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1619010905831" />
+    <state width="1100" height="349" key="GridCell.Tab.0.bottom" timestamp="1619058676687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1100" height="349" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619058676687" />
+    <state width="1387" height="387" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619016567262" />
+    <state width="1100" height="349" key="GridCell.Tab.0.center" timestamp="1619058676687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1100" height="349" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619058676687" />
+    <state width="1387" height="387" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619016567262" />
+    <state width="1100" height="349" key="GridCell.Tab.0.left" timestamp="1619058676687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1100" height="349" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619058676687" />
+    <state width="1387" height="387" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619016567262" />
+    <state width="1100" height="349" key="GridCell.Tab.0.right" timestamp="1619058676687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1100" height="349" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619058676687" />
+    <state width="1387" height="387" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619016567262" />
+    <state width="1100" height="349" key="GridCell.Tab.1.bottom" timestamp="1619058676687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1100" height="349" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619058676687" />
+    <state width="1387" height="387" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619016567263" />
+    <state width="1100" height="349" key="GridCell.Tab.1.center" timestamp="1619058676687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1100" height="349" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1619058676687" />
+    <state width="1387" height="387" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619016567262" />
+    <state width="1100" height="349" key="GridCell.Tab.1.left" timestamp="1619058676687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1100" height="349" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1619058676687" />
+    <state width="1387" height="387" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619016567262" />
+    <state width="1100" height="349" key="GridCell.Tab.1.right" timestamp="1619058676687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1100" height="349" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1619058676687" />
+    <state width="1387" height="387" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619016567263" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1619004375481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1619004375481" />
+    <state x="813" y="162" key="SettingsEditor" timestamp="1618997114549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="813" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618997114549" />
+    <state x="815" y="78" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1619052749597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="78" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1619052749597" />
+    <state x="540" y="235" key="new project wizard" timestamp="1619090808566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="235" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1619090808566" />
+    <state x="823" y="386" width="672" height="678" key="search.everywhere.popup" timestamp="1619013440206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="823" y="386" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619013440206" />
+  </component>
+</project>
