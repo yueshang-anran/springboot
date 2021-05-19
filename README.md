@@ -1,2 +1,2 @@
 # springboot
-跟狂老师学习springboot
+学习springboot
